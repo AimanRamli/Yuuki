@@ -1,85 +1,71 @@
 Shop information
 
 Baker:
-Mr. ALEX KOH (Exquisite 3-star Michelin star bakery chef)
+Mr. Aiman (professional florist)
 
 Time open:
-Everyday from 9am to 6pm (Except wednesday)
+Monday-friday from 9am to 6pm 
 
 Website Link:
-(https://decadent-delights-bakery-odm0nen.gamma.site/)
+(https://aiman-flower-shop-o8oqv3c.gamma.site/)
 
 Location:
-Street - Jalan Tinju 13/50, Seksyen 13, 40100 Shah Alam
-State/province/area - Selangor
-Zip code - 42600
+Parit 9 BAn 3, 45400 Sekinchan, Selangor
 
 Phone Number:
 +60 19-439 5991
 
-Cake flavours:
-Chocolate (Available)
-Vanilla (Unavailable)
-Strawberry (Unavailable)
-Blueberry (Unavailable)
+Popular flowers:
 
-Icing flavours:
-Chocolate (Available)
-Vanilla (UnAvailable)
-Mint (Available)
-Strawberry (Available)
-Blueberry (Available)
+Roses (roses) - various colors and types
+Lilies - pink, white and yellow colors are commonly found
+Sun (sunflowers)
+Orkid (orchids)
+Carnation (carnations) - various colors
 
-Sizes & Pricing:
-Round cake 6 inch diameter - 30RM (40RM with icing)
-Round cake 8 inch diameter - 50RM (62RM with icing)
-Round cake 10 inch diameter - 80RM (95RM with icing)
-Round cake 12 inch diameter - 115RM (132RM with icing)
-Round cake 14 inch diameter - 155RM (175RM with icing)
-Round cake 16 inch diameter - 200RM (220RM with icing)
-Square cake 6x6 inch size - 40RM (52RM with icing)
-Square cake 8x8 inch size - 70RM (88RM with icing)
-Square cake 10x10 inch size - 110RM (140RM with icing)
-Square cake 12x12 inch size - 155RM (195RM with icing)
-Rectangle cake 6x8 inch size - 50RM (65RM with icing)
-Rectangle cake 8x12 inch size - 100RM (125RM with icing)
-Rectangle cake 12x16 inch size - 200RM (240RM with icing)
-Height is 4 inch for all cakes
+Other flowers:
+
+Daisy (daisies)
+Kesidang (used in traditional Malay weddings)
+Calla lilies (calla lilies) - suitable for hand bouquets
+Bird of Paradise (birds of paradise) - long-lasting tropical flower
+Filler flowers - like baby's breath, add series to the composition
+
+Sales per stem/stalk:
+
+Roses: RM5 - RM10 per stem
+Lilies: RM8 - RM15 per stem
+Orchids: RM15 - RM25 per stem
+Gerberas: RM3 - RM7 per stem
+
+Sales per bouquet (5-10 stems):
+
+Rose Bouquet: RM25 - RM50
+Lily Bouquet: RM40 - RM75
+Orchid Bouquet: RM75 - RM125
+Gerbera Bouquet: RM15 - RM35
+
+Sales in the form of bouquets/arrangements:
+Small Mixed Bouquet: RM50 - RM80
+Medium Mixed Bouquet: RM80 - RM120
+Large Mixed Bouquet: RM120 - RM180
+Small Table Arrangement: RM60 - RM100
+Medium Table Arrangement: RM100 - RM150
+Large Table Arrangement: RM150 - RM250
 
 Ordering process:
-Specify cake tier number (accept 1 to 3)
-For each cake, specify which cake and icing flavour
-If cake tier is more than 1, lower cake must have bigger size than upper ones
-Cake tier cannot have different shapes
 
-Ingredients:
-All-purpose flour, granulated sugar, baking powder, baking soda, eggs, milk, vegetable oil, vanilla extract. (Made from scratch, all locally sourced ingredients)
+Selection of Flowers:
+Customers can choose the specific flowers they want, whether it's by the stem, bouquet or pre-designed arrangement.
+They can select the type, quantity and size based on their preference and occasion.
 
-Programs:
-No cake workshop or decoration classes
-No loyalty program (will soon be implemented)
-No refunds and returns
+Customization (optional):
+Customers may request customizations to the bouquet or arrangement, such as adding specific flowers, changing the color scheme, or altering the size.
+The florist will accommodate these requests to the best of their ability.
 
 Promotions:
-[Chocolate Spree] Chocolate cake 20% off (End at 29th March)
-
-Tax:
-10% Government tax
-
-Icing:
-Icing is applied around each cake (except bottom part)
+[Rose Bouquet] Roses 10% off (End at 29th June)
 
 Others:
-No vegan/free gluten options
 Order can be made via phone/chatbot (or coming to place)
-Deposit is 80% of the total price
-Do not accept any form of cash
-Tasting appointment can just come to the place directly
-Doesn't accept order issues, if any issue on orders, tell them to contact customer service via phone number.
-
-Other products:
-Candle (2RM for each candle)
-Lighter for candle (3RM)
-Plastic plates (2RM per 12 plates)
-Plastic utensils (spoon & fork) 1RM per tool
-Plastic knife to cut cake (2.5RM)
+Deposit is 50% of the total price
